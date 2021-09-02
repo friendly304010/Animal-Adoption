@@ -1,0 +1,129 @@
+[{
+        "id": 0,
+        "name": "Max",
+        "picture": "images/golden-retriever1.jpg",
+        "age": 3,
+        "breed": "Golden Retriever",
+        "location": "Lisco, Alabama"
+    },
+    {
+        "id": 1,
+        "name": "Bailey",
+        "picture": "images/daschund.jpg",
+        "age": 3,
+        "breed": "Daschund",
+        "location": "Tooleville, West Virginia"
+    },
+    {
+        "id": 2,
+        "name": "Collie",
+        "picture": "images/french-bulldog.jpg",
+        "age": 2,
+        "breed": "French Bulldog",
+        "location": "Freeburn, Idaho"
+    },
+    {
+        "id": 3,
+        "name": "Brownie",
+        "picture": "images/boxer.jpg",
+        "age": 2,
+        "breed": "Boxer",
+        "location": "Camas, Pennsylvania"
+    },
+    {
+        "id": 4,
+        "name": "Buddy",
+        "picture": "images/labrador-retriever.jpg",
+        "age": 2,
+        "breed": "Labrador Retriever",
+        "location": "Gerber, South Dakota"
+    },
+    {
+        "id": 5,
+        "name": "Goldie",
+        "picture": "images/golden-retriever.jpeg",
+        "age": 3,
+        "breed": "Golden Retriever",
+        "location": "Innsbrook, Illinois"
+    },
+    {
+        "id": 6,
+        "name": "Baxter",
+        "picture": "images/german-shepherd.jpg",
+        "age": 3,
+        "breed": "German Shepherd",
+        "location": "Soudan, Louisiana"
+    },
+    {
+        "id": 7,
+        "name": "Snowflake",
+        "picture": "images/siberian-husky.jpg",
+        "age": 3,
+        "breed": "Siberian Husky",
+        "location": "Jacksonwald, Palau"
+    },
+    {
+        "id": 8,
+        "name": "Peanut",
+        "picture": "images/beagle.jpg",
+        "age": 2,
+        "breed": "Beagle",
+        "location": "Honolulu, Hawaii"
+    },
+    {
+        "id": 9,
+        "name": "Mochi",
+        "picture": "images/pomeranian.jpg",
+        "age": 3,
+        "breed": "Pomeranian",
+        "location": "Matheny, Utah"
+    },
+    {
+        "id": 10,
+        "name": "Oreo",
+        "picture": "images/australian-shepherd.jpg",
+        "age": 2,
+        "breed": "Australian Shepherd",
+        "location": "Tyhee, Indiana"
+    },
+    {
+        "id": 11,
+        "name": "Milo",
+        "picture": "images/chihuahua.jpg",
+        "age": 3,
+        "breed": "Chihuahua",
+        "location": "Windsor, Montana"
+    },
+    {
+        "id": 12,
+        "name": "Pixie",
+        "picture": "images/poodle.jpg",
+        "age": 3,
+        "breed": "Poodle",
+        "location": "Kingstowne, Nevada"
+    },
+    {
+        "id": 13,
+        "name": "Spot",
+        "picture": "images/dalmatian.png",
+        "age": 4,
+        "breed": "Dalmatian",
+        "location": "Sultana, Massachusetts"
+    },
+    {
+        "id": 14,
+        "name": "Aero",
+        "picture": "images/pembroke-welsh-corgi.jpg",
+        "age": 2,
+        "breed": "Pembroke Welsh Corgi",
+        "location": "Broadlands, Oregon"
+    },
+    {
+        "id": 15,
+        "name": "Biscuit",
+        "picture": "images/pug.jpg",
+        "age": 2,
+        "breed": "Pug",
+        "location": "Dawn, Wisconsin"
+    }
+]
